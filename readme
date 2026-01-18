@@ -1,0 +1,94 @@
+# SQL Lab Practice Repository
+
+This repository contains comprehensive **SQL lab practice** covering:
+- Database & table creation
+- Constraints
+- CRUD operations
+- Joins
+- Grouping & aggregation
+- Subqueries
+- String & date functions
+- Views, indexes
+- Triggers
+- Schema-based queries
+
+Suitable for **DBMS lab exams, viva, and practice**.
+
+---
+
+## 🧱 Topics Covered
+
+### 1. Database & Table Creation
+- CREATE DATABASE
+- CREATE TABLE
+- AUTO_INCREMENT
+- DEFAULT values
+- FOREIGN KEY
+
+### 2. Table Alterations
+- ADD COLUMN
+- MODIFY
+- RENAME TABLE
+- CHANGE column name
+
+### 3. Constraints
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- CHECK
+- NAMED CONSTRAINTS
+
+### 4. CRUD Operations
+- INSERT
+- UPDATE
+- DELETE
+- SELECT with conditions
+
+### 5. Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- SELF JOIN
+
+### 6. Aggregate Functions
+- COUNT
+- SUM
+- AVG
+- MAX
+- MIN
+- GROUP BY
+- HAVING
+
+### 7. Subqueries
+- IN
+- ALL
+- Nested queries
+
+### 8. String Functions
+- CONCAT / CONCAT_WS
+- SUBSTRING
+- REPLACE
+- UPPER
+- LOWER
+- CHAR_LENGTH
+- TRIM
+- REPEAT
+
+### 9. Date & Time Functions
+- CURDATE
+- NOW
+- DATE_FORMAT
+- DATE_ADD
+- INTERVAL
+
+### 10. Views & Index
+- CREATE VIEW
+- CREATE INDEX
+
+### 11. Trigger
+- AFTER UPDATE trigger for salary audit
+
+---
+
+## 📂 File Structure
+
